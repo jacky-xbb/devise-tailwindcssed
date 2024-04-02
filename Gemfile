@@ -11,7 +11,7 @@ group :code_quality do
   gem "bundler-audit", "~> 0.9.1"
   gem "bundler-leak", "~> 0.2"
   gem "caliber", "~> 0.16"
-  gem "git-lint", "~> 4.0"
+  gem "git-lint"
   gem "reek", "~> 6.1"
 end
 
